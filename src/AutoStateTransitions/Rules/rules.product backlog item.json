@@ -1,5 +1,5 @@
-{
-  "type": "Task",
+﻿{
+  "type": "Product Backlog Item",
   "rules": [
     {
       "ifChildState": "Done",
